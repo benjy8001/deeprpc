@@ -1,0 +1,2 @@
+kademlia==1.0
+rpcudp==3.0
